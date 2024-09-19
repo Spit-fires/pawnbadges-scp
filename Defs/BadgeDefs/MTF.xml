@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<RR_PawnBadge.BadgeDef>
+		<defName>Alpha1</defName>
+		<label>Alpha-1 "Red Right Hand"</label>
+		<description>Mobile Task Force Alpha-1 is a task force that reports directly to the O5 Council and is used in situations that require the strictest operational security. The task force consists of the Foundation's best and most loyal operatives, and serves as the O5 Council's special operations unit. Further information regarding MTF Alpha-1 is classified Level 5.</description>
+		<icon>PawnBadge/MTF/Alpha1</icon>
+		<fromBaseMod>False</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+	
+	<RR_PawnBadge.BadgeDef>
+		<defName>Beta7</defName>
+		<label>Beta-7 "Maz Hatters"</label>
+		<description>Mobile Task Force Beta-7 specializes in the acquisition and containment of anomalies exhibiting extreme biological, chemical, or radiological hazards as well as the rapid containment and cleanup of areas affected by such anomalies. This includes the planning and deployment of contingencies for wide-area or pandemic spread of anomalous disease agents or other contagious phenomena.</description>
+		<icon>PawnBadge/MTF/Beta7</icon>
+		<fromBaseMod>False</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+	
+	<RR_PawnBadge.BadgeDef>
+		<defName>Epsilon11</defName>
+		<label>Epsilon-11 "Nine-Tailed Fox"</label>
+		<description>Mobile Task Force Epsilon-11 handles internal security for the SCP Foundation, under oversight by MTF Alpha-1. They are a special ops force deployed to Foundation Sites when standard protocols fail and multiple breaches are imminent. As such, most of their operations are classified.</description>
+		<icon>PawnBadge/MTF/Epsilon11</icon>
+		<fromBaseMod>False</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>Omega1</defName>
+		<label>Omega-1 "Law's Left Hand"</label>
+		<description>Empowered to remove or execute high-ranking Foundation personnel if they are determined to be acting unethically. Answers only to the Ethics Committee; counterpart to the O5's "Red Right Hand".</description>
+		<icon>PawnBadge/MTF/Omega1</icon>
+		<fromBaseMod>False</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>Tau5</defName>
+		<label>Tau-5 "Samsara"</label>
+		<description>Immortal cyborg clones created from the flesh of a dead god, Mobile Task Force Tau-5 "Samsara" utilizes esoteric and experimental Foundation weaponry to investigate and contain thaumaturgic and psionic threats.</description>
+		<icon>PawnBadge/MTF/Tau5</icon>
+		<fromBaseMod>False</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>Nu7</defName>
+		<label>Nu-7 "Hammer Down"</label>
+		<description>Armed Mobile Task Force Nu-7 is a battalion-strength force consisting of three company-sized elements of special operations infantry forces, a light armored vehicle company, tank platoon, helicopter squadron, chemical-biological-radiological-nuclear (CBRN) platoon, combat engineer platoon, nuclear weapon specialist (NWS) squad, plus additional combat specialist and support personnel. AMTF Nu-7 is based primarily out of Armed Bio-Containment Area-14 and is tasked with responding to incidents involving loss of communication with major Foundation facilities under circumstances wherein a site-wide breach, enemy compromise, or other similarly catastrophic event is suspected.</description>
+		<icon>PawnBadge/MTF/Nu7</icon>
+		<fromBaseMod>False</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+
+</Defs>

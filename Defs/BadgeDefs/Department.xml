@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RR_PawnBadge.BadgeDef>
+		<defName>O5</defName>
+		<label>O5 Council</label>
+		<description>The O5 Council, also known as the Council of Overseers or Overwatch Command, is the highest authority within the SCP Foundation. The Council members have Level 5 Security Clearance, giving them unredacted access to the entire SCP database.
+        
+        While uninvolved in routine matters and deliberately separated from any contact with the anomalous, when O5 Council members do choose to intervene, their word is final. The exact number, identities, and roles of the O5 Council members is strictly classified.</description>
+		<icon>PawnBadge/Department/o5</icon>
+		<fromBaseMod>False</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+
+    <RR_PawnBadge.BadgeDef>
+		<defName>EC</defName>
+		<label>Ethics Committee</label>
+		<description>While the O5 Council decides what is safe, the Ethics Committee determines what is ethical. Although the Foundation takes a pragmatic approach to moral quandaries, the Ethics Committee ensures that only necessary sacrifices are made and that the most ethical option is always chosen. Foundation personnel should be aware that the Ethics Committee is observing, evaluating, and passing judgement.</description>
+		<icon>PawnBadge/Department/ec</icon>
+		<fromBaseMod>False</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+
+    <RR_PawnBadge.BadgeDef>
+		<defName>SD</defName>
+		<label>Security Department</label>
+		<description>This department is responsible for providing security and protection for all Foundation facilities and objects, regardless of their priority. SD employees are trained to counteract containment breach events, intrusions, sabotage, natural disasters, and other emergencies. Newcomers to this service usually undergo general training before being assigned to an object or site. Special training for working with a given object is performed on-site after assignment.</description>
+		<icon>PawnBadge/Department/sd</icon>
+		<fromBaseMod>False</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+
+    <RR_PawnBadge.BadgeDef>
+		<defName>ScD</defName>
+		<label>Scientific Department</label>
+		<description>E&amp;TS is responsible for technical maintenance and everyday services of all facilities and equipment in active Foundation use. This department is responsible for design and construction of new facilities and routes of communication as well as repair and maintenance. E&amp;TS department is divided into several sub-departments based on clearance levels and appropriations; employees with higher clearance levels design and build Keter-class containment chambers and work with strategically important facilities.</description>
+		<icon>PawnBadge/Department/et</icon>
+		<fromBaseMod>False</fromBaseMod>
+	</RR_PawnBadge.BadgeDef>
+
+</Defs>
